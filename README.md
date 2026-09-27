@@ -17,7 +17,7 @@
 - 🌱 Learning **Prisma**, **MongoDB**, and **NextAuth.js**
 - 🎯 Looking for **junior roles**, **internships**, or **freelance work**
 - 💬 Ask me about **Next.js, React, TypeScript, Tailwind CSS, or REST APIs**
-- 📫 Reach me at **asuduzzaman8088@gmail.com**
+- 📫 Reach me at **soponmd6@gmail.com**
 
 ---
 
