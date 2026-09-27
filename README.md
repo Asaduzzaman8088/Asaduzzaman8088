@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="./banner.png" alt="Banner" />
 </p><img width="2048" height="768" alt="banner" src="https://github.com/user-attachments/assets/61f865d7-a19b-40f1-bf5f-f7117049e40b" />
 
 <h1 align="center">Hi 👋, I'm Asaduzzaman</h1>
@@ -69,7 +68,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Asaduzzaman8088&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Asaduzzaman8088&theme=2077" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -77,10 +76,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asaduzzaman8088&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Asaduzzaman8088&theme=2077" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Asaduzzaman8088&theme=2077" alt="Top Languages by Commit" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asaduzzaman8088&theme=2077" alt="Profile Details" />
+</p>
 
 ## 🏋️ Featured Project — FitLog
 
